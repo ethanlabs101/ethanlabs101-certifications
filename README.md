@@ -1,18 +1,18 @@
-## Learning and Certifications
+# Learning and Certifications
 
-Currently in progress:
+## Currently in progress:
 - freeCodeCamp Python track
 - Exercism Python track
 
-Planned:
+## Planned:
 - CompTIA Network+ (network fundamentals)
 - CompTIA Security+ (security fundamentals)
 
 ---
 
-## Small Projects / Exercises
+# Small Projects / Exercises
 
 ***Here I will include a few projects/exercises I create from concepts learned***
 
-# [freeCodeCamp]
+## [freeCodeCamp]
 - [1]()
