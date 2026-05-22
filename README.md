@@ -15,4 +15,4 @@ Planned:
 
 ***Here I will include a few projects/exercises I create from concepts learned***
 
-- ![CS50P](wwww.yur.com)(alt text)
+- [CS50P](wwww.yur.com)(Harvard Python)
