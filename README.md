@@ -1,7 +1,6 @@
 ## Learning and Certifications
 
 Currently in progress:
-- CS50P (Harvard Python)
 - freeCodeCamp Python track
 - Exercism Python track
 
@@ -15,4 +14,3 @@ Planned:
 
 ***Here I will include a few projects/exercises I create from concepts learned***
 
-- [CS50P](https://github.com/ethanlabs101/ethanlabs101-certifications/blob/main/CS50P/cs50p.md) - Harvard Python
