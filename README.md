@@ -15,4 +15,4 @@
 ***Here I will include a few projects/exercises I create from concepts learned***
 
 ## [freeCodeCamp] - Python
-- [Hello World]() - Basic "Hello World" program.
+[Hello World]() - Basic "Hello World" program.
