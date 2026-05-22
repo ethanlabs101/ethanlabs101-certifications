@@ -1,8 +1,8 @@
 # Learning and Certifications
 
 ## Currently in progress:
-- freeCodeCamp Python track
-- Exercism Python track
+- freeCodeCamp - Python
+- Exercism - Python
 
 ## Planned:
 - CompTIA Network+ (network fundamentals)
@@ -14,5 +14,5 @@
 
 ***Here I will include a few projects/exercises I create from concepts learned***
 
-## [freeCodeCamp]
+## [freeCodeCamp] - Python
 - [1]()
