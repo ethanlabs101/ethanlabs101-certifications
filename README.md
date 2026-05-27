@@ -15,5 +15,5 @@
 ***Here I will include a few projects/exercises I create from concepts learned***
 
 ## [freeCodeCamp - Python]
-[Hello World](https://github.com/ethanlabs101/ethanlabs101-certifications/blob/main/freecodecamp/python/first-experiments/hello_world.py) - Basic "Hello World" program.
-[Bill-Splitter]() - Small "Bill-Splitter" freecodecamp project.
+- [Hello World](https://github.com/ethanlabs101/ethanlabs101-certifications/blob/main/freecodecamp/python/first-experiments/hello_world.py) - Basic "Hello World" program.
+- [Bill-Splitter]() - Small "Bill-Splitter" freecodecamp project.
