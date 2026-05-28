@@ -17,4 +17,4 @@
 ## [freeCodeCamp - Python]
 - [Hello World](https://github.com/ethanlabs101/ethanlabs101-certifications/blob/main/freecodecamp/python/first-experiments/hello_world.py) - Basic "Hello World" program.
 - [Bill-Splitter](https://github.com/ethanlabs101/ethanlabs101-certifications/blob/main/freecodecamp/python/first-experiments/bill-splitter.py) - Small "Bill-Splitter" freecodecamp project.
-- [Movie Ticket Booking Calculator]() - another freecodecamp exercise/project.
+- [Movie Ticket Booking Calculator](https://github.com/ethanlabs101/ethanlabs101-certifications/blob/main/freecodecamp/python/first-experiments/movie-ticket-calc.py) - another freecodecamp exercise/project.
