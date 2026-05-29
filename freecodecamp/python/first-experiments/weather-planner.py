@@ -1,8 +1,7 @@
-# (free code camp lab instructions/objective)
+# (freecodecamp lab instructions/objective)
 # For this lab, you will use conditional statements to determine whether commuting is possible based on the weather, the distance to travel, and the availability of a vehicle.
 # Objective: Fulfill the user stories below and get all the tests to pass to complete the lab.
 # User Stories:
-
 # 1. You should create the following variables:
 # - distance_mi (a number representing the distance to travel in miles)
 # - is_raining (a boolean representing if the user is currently experiencing rainy weather)
