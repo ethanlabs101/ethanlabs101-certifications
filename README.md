@@ -14,6 +14,6 @@
 
 ***Here I will include a few projects/exercises I create from concepts learned and exercises straight from the cirriculum***
 
-[freeCodeCamp - Python](https://github.com/ethanlabs101/ethanlabs101-certifications/blob/main/freecodecamp.md)
+[freeCodeCamp - Python](https://github.com/ethanlabs101/ethanlabs101-certifications/blob/main/freecodecamp-python.md)
 
 [portswigger - SQL Injection]()
