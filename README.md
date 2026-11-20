@@ -1,8 +1,8 @@
 # Learning and Certifications
 
 ## Currently in progress:
+- portswigger - SQL Injection
 - freeCodeCamp - Python
-- Exercism - Python
 
 ## Planned:
 - CompTIA Network+ (network fundamentals)
