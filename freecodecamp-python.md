@@ -1,6 +1,7 @@
 ## [freeCodeCamp - Python]
 - [Hello World](https://github.com/ethanlabs101/ethanlabs101-certifications/blob/main/freecodecamp/python/first-experiments/hello_world.py) - Basic "Hello World" program.
 - [Bill-Splitter](https://github.com/ethanlabs101/ethanlabs101-certifications/blob/main/freecodecamp/python/first-experiments/bill-splitter.py) - Small "Bill-Splitter" freecodecamp project.
+- [Employee Profile Validator]()
 - [Movie Ticket Booking Calculator](https://github.com/ethanlabs101/ethanlabs101-certifications/blob/main/freecodecamp/python/first-experiments/movie-ticket-calc.py) - another freecodecamp exercise/project.
 - [Travel Weather Planner](https://github.com/ethanlabs101/ethanlabs101-certifications/blob/main/freecodecamp/python/first-experiments/weather-planner.py) - freecodecamp lab
 - [Apply Discount Function](https://github.com/ethanlabs101/ethanlabs101-certifications/blob/main/freecodecamp/python/first-experiments/apply_discount.py) - freecodecamp exercise
